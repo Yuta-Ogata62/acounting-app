@@ -1,0 +1,12 @@
+label{
+    display: inline-block;
+    text-align: right;
+    width: 150px;
+}
+.total-box{ 
+    display: flex;
+align-items: center;
+ }
+ .total-txt{
+    margin-right: 5px;
+ }
